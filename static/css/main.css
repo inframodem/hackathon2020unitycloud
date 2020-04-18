@@ -1,0 +1,47 @@
+header {
+    padding: 30px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 10px;
+  }
+  
+  .header_left {
+    float: left;
+    width: 20;
+    text-align: center;
+    background-blend-mode: difference
+  }
+  
+  .header_center {
+    float: center;
+    width: 60;
+  }
+  
+  .header_right {
+    float: right;
+    width: 20;
+    text-align: center
+  }
+  
+  .content {
+    
+  }
+  
+  .game {
+    width: 80%;
+    float: left
+  }
+  
+  .scoreboard {
+    width: 20%;
+    float: center
+  }
+  
+  footer {
+    padding: 30px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 10px;
+  }

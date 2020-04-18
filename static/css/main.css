@@ -29,13 +29,13 @@ header {
   }
   
   .game {
-    width: 80%;
+    width: 70%;
     float: left
   }
   
   .scoreboard {
-    width: 20%;
-    float: center
+    width: 25%;
+    float: right
   }
   
   footer {

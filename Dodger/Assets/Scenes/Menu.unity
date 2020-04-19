@@ -620,6 +620,37 @@ MonoBehaviour:
   currstate: 0
   MainMenu: {fileID: 1441168846}
   HighScore: {fileID: 1987774380}
+  currscoreboard:
+    userName1: 
+    score1: 0
+    userName2: 
+    score2: 0
+    userName3: 
+    score3: 0
+    userName4: 
+    score4: 0
+    userName5: 
+    score5: 0
+    userName6: 
+    score6: 0
+    userName7: 
+    score7: 0
+    userName8: 
+    score8: 0
+    userName9: 
+    score9: 0
+    userName10: 
+    score10: 0
+  score1: {fileID: 1184812598}
+  score2: {fileID: 82040579}
+  score3: {fileID: 1283316973}
+  score4: {fileID: 243959084}
+  score5: {fileID: 1859500830}
+  score6: {fileID: 1033351116}
+  score7: {fileID: 363840042}
+  score8: {fileID: 59641330}
+  score9: {fileID: 294348885}
+  score10: {fileID: 655525974}
 --- !u!1 &363840040
 GameObject:
   m_ObjectHideFlags: 0
